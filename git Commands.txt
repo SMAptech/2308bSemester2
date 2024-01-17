@@ -1,0 +1,18 @@
+1: git init (to inilialize git repo)
+
+2: git status (to check the status of git repo)
+
+3: git add filename.extension (to stage specific file)
+
+4: git add . (to stage all new and modified untracked files)
+
+5: git branch -m master-2308b-semester-2 (to create and checkout to the specic branch)
+
+6: git commit -m "message for specific commit"
+
+7: git config --global user.name "your github user name"
+
+8: git config --global user.email "your github useremail"
+9: git remote add origin (your github repository link)
+
+10: git push origin master-2308b-semester-2 ( to push to specfic branch of github)
