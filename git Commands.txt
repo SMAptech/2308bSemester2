@@ -16,3 +16,17 @@
 9: git remote add origin (your github repository link)
 
 10: git push origin master-2308b-semester-2 ( to push to specfic branch of github)
+
+
+
+-------------------------------------------------------------------------------------------------
+
+BRANCHES
+
+1: git branch (gives the list of branches)
+
+2: git branch branch-name (create new branch with name branch-name)
+
+3: git checkout branch-name (to sqitch the branch to branch-name)
+
+4: git merge branch-name (to merge branch)
